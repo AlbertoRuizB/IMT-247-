@@ -1,2 +1,2 @@
-# IMT-247-
+# IMT-247
 Instrumentación Industrial
